@@ -41,6 +41,8 @@ def main():
     else:
         print("❌ Invalid choice")
 
+print("hello")
+
 
 if __name__ == "__main__":
     main()
